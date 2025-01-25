@@ -8,5 +8,4 @@
 **Iran** :iran:
 
 # **other**
-[![Donate](https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg)](https://www.coffeebede.com/trexnumber)<br>
-[![Telgram](https://img.icons8.com/sf-regular-filled/96/telegram.png)](t.me/aliraeesi385)
+[![Donate](https://img.icons8.com/pastel-glyph/50/drink-to-go.png)](https://www.coffeebede.com/trexnumber) [![Telgram](https://img.icons8.com/sf-regular-filled/96/telegram.png)](t.me/aliraeesi385)
