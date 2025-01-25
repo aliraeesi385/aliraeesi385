@@ -1,5 +1,12 @@
-Greetings to those who see this message
+# About
+**I'm a simple person in programming and I don't know much to leave out.**
 
-I am an Iranian man who share my simple Telegram bots for the rest of the people
+## *Year of birth*
+**12 - 6 - 2006**
 
-So please support me
+## *Country*
+**Iran** :iran:
+
+# **other**
+[![Donate](https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg)](https://www.coffeebede.com/trexnumber)
+[![Telgram](https://img.icons8.com/sf-regular-filled/96/telegram.png)](t.me/aliraeesi385)
